@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="flickr_api_base_url">https://api.flickr.com</string>
+</resources>
